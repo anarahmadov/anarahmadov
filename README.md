@@ -7,18 +7,7 @@
 
 - ## 📫 How to Reach Me
 
-- ![Gmail](https://img.shields.io/badge/Gmail-ahmadovanarr@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)  
-  [ahmadovanarr@gmail.com](mailto:ahmadovanarr@gmail.com)
-
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)  
-  [anarahmadov](https://linkedin.com/in/anarahmadov)
-
-- ![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)  
-  [@anarahmadov](https://github.com/anarahmadov)
-
-- ![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square&logo=internet-explorer&logoColor=white)  
-  [My portfolio website](https://anarahmadov.pro)
-
+  [<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="30"/>](mailto:ahmadovanarr@gmail.com "Email Me")  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/>](https://linkedin.com/in/anarahmadov "Connect on LinkedIn")  [<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="30"/>](https://github.com/anarahmadov "Follow on Github")[<img src="https://img.icons8.com/fluency/48/000000/internet.png" alt="Browser" width="30"/>](https://www.anarahmadov.pro "Visit My Portfolio")
 
 <!--- anarahmadov/anarahmadov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
