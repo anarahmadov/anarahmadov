@@ -3,7 +3,7 @@
 - 🌱 At the same time, I try to learn and understand the concepts of basic algorithms and data structures.
 - 💞️ I'm looking to contribute open source projects on .NET ecosystem.
 
-![ProfileViews](https://komarev.com/ghpvc/?username=anarahmadov&color=blue&abbreviated=true)
+<!--- ![ProfileViews](https://komarev.com/ghpvc/?username=anarahmadov&color=blue&abbreviated=true) --->
 
 - ## 📫 How to Reach Me
 
